@@ -40,15 +40,15 @@ You are gonna see this:
 
 <img width="655" alt="image" src="https://github.com/NotUrLocalScripter/How-to-unroot-your-Phone/assets/126284768/28cce4fa-6c65-482e-a09e-6171c5c0bdb6">
 
-First:
+- First:
 Click on BL and select the BL file (starts with BL)
-Second:
+- Second:
 Click on AP and select the AP file (starts with AP)
-Third:
+- Third:
 Click on CP and select the CP file (starts with CP)
-Fourth: 
+- Fourth: 
 Click on CSC and select the CSC file (starts with CSC - NOT THE HOMECSC!!!)
-Fifth:
+- Fifth:
 Hit start
 
 Troubleshooting:
