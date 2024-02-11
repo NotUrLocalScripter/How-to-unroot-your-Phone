@@ -25,12 +25,12 @@ Just press volume up and down at the same time and then put ur usb cabel into th
 then there should be 3 options, hold volume up key and then disable bootloader and reset ur phone.
 
 ### Now!
-> Mobile is still connected to ur laptop or PC. <
-Install the latest Odin3 version: https://odinflashtool.com/download/odin3-v3-14-4/ 
-Install your latest firmware from ur phone i downloaded mine here: https://www.sammobile.com/
-and unzip it.
-Now open Odin3 as administrator.
-On phone, you are still in the downloading menu and you cant skip it.
+- Mobile is still connected to ur laptop or PC. 
+- Install the latest Odin3 version: https://odinflashtool.com/download/odin3-v3-14-4/ 
+- Install your latest firmware from ur phone i downloaded mine here: https://www.sammobile.com/
+- and unzip it.
+- Now open Odin3 as administrator.
+- On phone, you are still in the downloading menu and you cant skip it.
 
 # Important please read all steps carefully
 In Odin3
