@@ -2,7 +2,9 @@
 IK this is github and not some kind of tutorial webside but here ill explain how u do the long way of unrooting ur phone
 
 So if your Phone is rooted you would see this in the app: https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck
+
 <img width="198" alt="image" src="https://github.com/NotUrLocalScripter/How-to-unroot-your-Phone/assets/126284768/3ccb7707-f188-4400-842c-495bacc42785">
+
 Disclaimer i needed to unrot my phone cuz being in a bootloop and it deleted all my files so secure your data in an cloud or remember to copy them to a harddrive every few days.
 
 How i factory reset my phone and all...
