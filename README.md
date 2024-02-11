@@ -37,7 +37,9 @@ then there should be 3 options, hold volume up key and then disable bootloader a
 # Important please read all steps carefully
 In Odin3
 You are gonna see this:
+
 <img width="655" alt="image" src="https://github.com/NotUrLocalScripter/How-to-unroot-your-Phone/assets/126284768/28cce4fa-6c65-482e-a09e-6171c5c0bdb6">
+
 First:
 Click on BL and select the BL file (starts with BL)
 Second:
@@ -58,6 +60,6 @@ And simply setup your phone.
 
 
 Contact:
-Discord: discordapp.com/users/1111619403830796319 / .Hellofellas
+Discord: https://www.discordapp.com/users/1111619403830796319 / .Hellofellas
 
 If it helped please like or smth or reply, ty.
